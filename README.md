@@ -22,8 +22,8 @@
 
 - 🏠 I'M from <b>INDIA</b>
 - 🌱 I’m currently learning more about Artificial Intelligence.
-- 👯 I’m looking to collaborate on [React Native].
-- 💬 Ask me about React Nativr or any tech related stuff.
+- 👯 I’m looking to collaborate on various machine learning projects.
+- 💬 Ask me about React Native or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @harshmuski](https://www.linkedin.com/in/harshmuski))
 - 😄 Pronouns: He/His.
 
